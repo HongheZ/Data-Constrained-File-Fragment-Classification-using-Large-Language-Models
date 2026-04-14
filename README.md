@@ -1,4 +1,4 @@
-# Data-Constrained File Fragment Classification Using Large Language Models
+# Data-Constrained File Fragment Classification across Heterogeneous File Types Using Large Language Models.
 
 This repository contains the preprocessed datasets, flowcharts, and experimental evaluation tables for our paper, **"Data-Constrained File Fragment Classification across Heterogeneous File Types Using Large Language Models."**
 
